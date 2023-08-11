@@ -63,3 +63,6 @@ The derivate of the sigmoid is:
 
 ![layer1_w](images/derivada.png)
 
+Neural Network scheme
+
+![layer1_w](images/rede.png)
