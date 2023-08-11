@@ -4,6 +4,7 @@ Basic XOR Neural Network
 ![tabela_verdade](images/tabela_verdade.png)
 
 Variable values Table
+
 ![entrys](images/entrys.png)
 
 ![output](images/output.png)
@@ -20,15 +21,18 @@ resulting in three neurons each record.
 ![layer1_w](images/soma.png)
 
 Result (4x3)
+
 ![layer1_w](images/4x3.png)
 
 Hidden Layer(4x3)
 Pass the value of hidden layer neurons through the sigmoid activation function
+
 ![layer1_w](images/4x3_oculta.png)
 
 Sum Synapse 1
 Hidden Layer (4x3) x 1 weights (3x1)
 Four three neurons for each record, to be multiplied by three weights, resulting in one neuron for each record.
+
 ![layer1_w](images/soma_1.png)
 
 
